@@ -1,0 +1,34 @@
+.heading {
+    font-size: 120px;
+    font-style: Roboto;
+    color: brown;
+
+}
+.bg {
+    background-image: url(timer.webp);
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.size {
+font-size: 35px;
+width: 120px;
+height: 40px;
+background-color: beige;
+color: black;
+border-radius: 6px;
+border-width: 0px;
+}
+.abc {
+font-size: 100px;
+font-style: Roboto;
+color: black;
+}
+.bcd {
+    font-size: 90px;
+    font-style: Roboto;
+    color: brown;
+}
